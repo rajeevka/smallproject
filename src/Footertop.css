@@ -1,0 +1,27 @@
+.Footertop{
+    background-color: #18263b;
+    /* border: 2px solid red; */
+    height: 50vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 99.7%;
+}
+.Footertop .Footertopone{
+     /* border: 2px solid red; */
+    width: 15%;
+    text-transform: capitalize;
+}
+.Footertop .Footertopone h2{
+  color: rgb(97, 97, 248);
+}
+.Footertop .Footertopone h2:hover{
+      cursor: pointer;
+}
+.Footertop .Footertopone p:hover{
+      cursor: pointer;
+}
+.Footertop .Footertopone img{
+    margin-top: 8vh;
+    border-radius: 10px;
+}
